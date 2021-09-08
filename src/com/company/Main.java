@@ -27,3 +27,16 @@ public class Main {
         zippo("rattle", 13);                     // 2
     }                                                       // 18
 }
+
+/*
+*   3. rattle
+ */
+
+/*
+*   4.
+*   ik
+*   rattle
+*   ping zoop
+*   boo-wa-ha-ha
+*
+ */
